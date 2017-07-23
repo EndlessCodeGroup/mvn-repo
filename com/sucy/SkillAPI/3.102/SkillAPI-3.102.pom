@@ -4,4 +4,12 @@
   <artifactId>SkillAPI</artifactId>
   <version>3.102</version>
   <description>Artifactory auto generated POM</description>
+  <dependencies>
+    <dependency>
+      <groupId>com.sucy</groupId>
+      <artifactId>MCCore</artifactId>
+      <version>1.63</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
