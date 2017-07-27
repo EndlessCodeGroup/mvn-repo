@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.herocraftonline.heroes</groupId>
+  <artifactId>Heroes</artifactId>
+  <version>1.5.5.6-SNAPSHOT</version>
+  <versioning>
+    <latest>1.5.5.6-SNAPSHOT</latest>
+    <versions>
+      <version>1.5.5.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170727083715</lastUpdated>
+  </versioning>
+</metadata>
