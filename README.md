@@ -17,8 +17,8 @@ There are two ways to do this:
 ### lumine-repo
 ```groovy
 maven {
-	name = 'lumine-repo'
-    url = 'http://dev.lumine.io:8081/repository/maven-snapshots/'
+    name 'lumine-repo'
+    url 'http://dev.lumine.io:8081/repository/maven-snapshots/'
 }
 ```
-This repo contains xikage's plugins. Like a MythicMobs
+This repo contains xikage's plugins (MythicMobs)
