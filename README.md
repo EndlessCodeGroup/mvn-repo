@@ -7,6 +7,7 @@ Repo url: https://raw.github.com/EndlessCodeGroup/mvn-repo/master/
 - MCCore ([com.sucy:MCCore](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/com/sucy/MCCore))
 - SkillAPI ([com.sucy:SkillAPI](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/com/sucy/SkillAPI))
 - Heroes ([com.herocraftonline.heroes:Heroes](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/com/herocraftonline/heroes/Heroes))
+- BattleLevels-API ([me.robin.battlelevels:battlelevels-api](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/me/robin/battlelevels/battlelevels-api))
 
 ## How to add plugin
 There are two ways to do this:
