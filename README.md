@@ -3,6 +3,27 @@ This is Maven repository that contains most popular Bukkit plugins. That needed 
 
 Repo url: https://raw.github.com/EndlessCodeGroup/mvn-repo/master/
 
+#### Maven
+```xml
+<repositories>
+  <repository>
+    <id>ec-repo</id>
+    <name>EndlessCode Repository</name>
+    <url>https://raw.github.com/EndlessCodeGroup/mvn-repo/master/</url>
+  </repository>
+</repositories>
+```
+
+#### Gradle
+```groovy
+repositories {
+  maven {
+    name = "ec-repo"
+    url = "https://raw.github.com/EndlessCodeGroup/mvn-repo/master/"
+  }
+}
+```
+
 ### Plugins list:
 - MCCore ([com.sucy:MCCore](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/com/sucy/MCCore))
 - SkillAPI ([com.sucy:SkillAPI](https://github.com/EndlessCodeGroup/mvn-repo/tree/master/com/sucy/SkillAPI))
